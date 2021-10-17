@@ -1,5 +1,5 @@
 # parallelism-in-C
-I created a simple program in C to use parallelism on multicore processors.
+I created a simple program in C to use parallelism on multicore processors. created for WPI CS3013.
 
 
 This Project shows how parralelism can be implimented to speed up lengthy processes by deligated tasks to seperate processes that the CPU can then seperate on to seperate cores. This program impliments a simple command of finding how many occurances of a letter are in a given file. The program will first map the file to memory using memory-mapping, then it will search the given file for a certain character and report back the file size in bytes and the number of occurances of the character. After this was fully implimented I created the ability to use parralell processes in order to speed up the process on large file sizes. The parralellism will split up the file into chunks that will be fead to the different processes, each will then report back the occurance it found inside its chunk. Attached is also a report of basic runtime testing using another program written in C comparing the different methods.
