@@ -1,0 +1,119 @@
+Script started on 2021-09-16 01:33:31-0400
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ gcc proj2.c -o proj2
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ gcc proj2.c -o proj2./doit ./fileio 8k.txt h p16[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pgcc proj2.c -o proj2[K./fil[K[K[Kprok[Kgcc proj2.c -o proj2./doit ./fileio 8k.txt h p16[C[C[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1@p[1@r[1@o[1@j[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K
+File Size: 8001 bytes
+Occurances of the character 'h': 322
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt h[K" "
+File Size: 8001 bytes
+Occurances of the character ' ': 0
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt " " 1
+File Size: 8001 bytes
+Occurances of the character ' ': 0
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt " " 100
+File Size: 8001 bytes
+Occurances of the character ' ': 0
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt " " 100[K[K[Kmmap
+File Size: 8001 bytes
+Occurances of the character ' ': 0
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt " " mmap[1P mmap[1Pmmap[1P mmapz mmap[C[C[C[C[C[K[K[K[Kp1
+File Size: 8001 bytes
+Occurances of the character 'z': 320
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt z p1[K2
+File Size: 8001 bytes
+Occurances of the character 'z': 172
+Occurances of the character 'z': 148
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt z p2[K3
+File Size: 8001 bytes
+Occurances of the character 'z': 114
+Occurances of the character 'z': 114
+Occurances of the character 'z': 92
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt z p3[K4
+File Size: 8001 bytes
+Occurances of the character 'z': 86
+Occurances of the character 'z': 86
+Occurances of the character 'z': 71
+Occurances of the character 'z': 77
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt z p4[K8
+File Size: 8001 bytes
+Occurances of the character 'z': 35
+Occurances of the character 'z': 51
+Occurances of the character 'z': 42
+Occurances of the character 'z': 44
+Occurances of the character 'z': 39
+Occurances of the character 'z': 32
+Occurances of the character 'z': 40
+Occurances of the character 'z': 37
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt z p8[K16
+File Size: 8001 bytes
+Occurances of the character 'z': 16
+Occurances of the character 'z': 19
+Occurances of the character 'z': 23
+Occurances of the character 'z': 28
+Occurances of the character 'z': 19
+Occurances of the character 'z': 21
+Occurances of the character 'z': 23
+Occurances of the character 'z': 23
+Occurances of the character 'z': 21
+Occurances of the character 'z': 9
+Occurances of the character 'z': 18
+Occurances of the character 'z': 23
+Occurances of the character 'z': 18
+Occurances of the character 'z': 15
+Occurances of the character 'z': 22
+Occurances of the character 'z': 22
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./proj2 8k.txt z p16[K[K32
+File Size: 8001 bytes
+Occurances of the character 'z': 16
+Occurances of the character 'z': 19
+Occurances of the character 'z': 23
+Occurances of the character 'z': 28
+Occurances of the character 'z': 19
+Occurances of the character 'z': 23
+Occurances of the character 'z': 21
+Occurances of the character 'z': 18
+Occurances of the character 'z': 23
+Occurances of the character 'z': 23
+Occurances of the character 'z': 21
+Occurances of the character 'z': 9
+Occurances of the character 'z': 18
+Occurances of the character 'z': 22
+Occurances of the character 'z': 15
+Occurances of the character 'z': 22
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./doit proj2 proj[Kj2.c z 8192
+Execvp error
+CPU Time: 0.000039 seconds 
+Involuntary Context Switched: 0 
+Voluntary Context Switched: 1 
+Wallclock Time: 0.000238 seconds 
+Major Faults: 0 
+Minor Faults: 68 
+Set Size: 2072 Kilobytes 
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./doit proj2 proj2.c z 8192[1@.[1@/
+File Size: 2432 bytes
+Occurances of the character 'z': 17
+CPU Time: 0.000039 seconds 
+Involuntary Context Switched: 0 
+Voluntary Context Switched: 1 
+Wallclock Time: 0.000444 seconds 
+Major Faults: 0 
+Minor Faults: 66 
+Set Size: 2072 Kilobytes 
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ ./doit ./proj2 proj2.c z 8192[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[Kp16[K[K6
+File Size: 2432 bytes
+Occurances of the character 'z': 1
+Occurances of the character 'z': 0
+Occurances of the character 'z': 3
+Occurances of the character 'z': 3
+Occurances of the character 'z': 3
+Occurances of the character 'z': 7
+CPU Time: 0.000039 seconds 
+Involuntary Context Switched: 0 
+Voluntary Context Switched: 1 
+Wallclock Time: 0.000740 seconds 
+Major Faults: 0 
+Minor Faults: 68 
+Set Size: 2072 Kilobytes 
+]0;ben@ben-VirtualBox: ~/Desktop/CS/proj2[01;32mben@ben-VirtualBox[00m:[01;34m~/Desktop/CS/proj2[00m$ exit
+exit
+
+Script done on 2021-09-16 01:36:07-0400
